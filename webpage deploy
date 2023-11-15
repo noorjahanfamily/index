@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="script.js"defer></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Indian tourism</title>
+</head>
+<h1>This is  main heading</h1>
+<h2>This is main heading</h2>
+<h3>This is sub heading</h3>
+<h4>This is sub heading</h4>
+<h5>This is sub heading</h5>
+<h6>This is sub heading</h6>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non, provident id! Optio, rerum. Saepe, exercitationem ipsum beatae soluta expedita eveniet, odio sequi delectus ab quibusdam odit a, necessitatibus nisi modi!
+
+</p>
+<img src="https://picsum.photos/200/300?image=0" alt = "randomly generated image" "class">
+<body>
+    </body>
+</html>
